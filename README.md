@@ -1,3 +1,3 @@
 # Hangman
 ---
-##Project for Object Oriented Programming subject.
+## Project for Object Oriented Programming subject.
