@@ -24,7 +24,5 @@ public:
 	static bool isLetter(std::string);
 	static void decreseAttempts(void);
 	static bool wasAlreadyGiven(std::string);
-
-
 };
 
